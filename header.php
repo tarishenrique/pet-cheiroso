@@ -37,7 +37,7 @@
 
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link nav-contact bg-primary text-white px-5 ms-lg-5">Contato
+                <a href="contact.html" class="nav-item nav-link nav-contact bg-warning px-5 ms-lg-5">Contato
                     <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
