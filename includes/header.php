@@ -28,12 +28,13 @@
                 <a href="product.html" class="nav-item nav-link">Produtos</a>
                 <a href="about.html" class="nav-item nav-link">Sobre Nós</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Páginas</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Cliente e Pets</a>
                     <div class="dropdown-menu m-0">
-                        <a href="price.html" class="dropdown-item">Lojas</a>
-                        <a href="team.html" class="dropdown-item">Equipes</a>
-                        <a href="testimonial.html" class="dropdown-item">Eventos</a>
-                        <a href="blog.html" class="dropdown-item">Parceiros</a>
+                        <a href="cliente_form.php" class="dropdown-item">Cadastrar Cliente</a>
+                        <a href="team.html" class="dropdown-item">Listar Cliente</a>
+                        <a href="pet_form.php" class="dropdown-item">Cadastrar Pets</a>
+                        <a href="team.html" class="dropdown-item">Listar Pets</a>
+
 
                     </div>
                 </div>
